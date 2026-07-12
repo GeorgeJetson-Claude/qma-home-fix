@@ -1,2 +1,4 @@
-# qma-home-fix
-Homepage fix for QMA service category cards (SVG). Safe partial - not full site.
+# QMA home fix
+
+Professional service category cards (CSS gradients + icons).
+No broken/missing/duplicate stock photos.
